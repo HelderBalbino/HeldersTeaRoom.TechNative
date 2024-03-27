@@ -16,14 +16,28 @@ Tea Cozy (Best tea in town)
 
 ## ViewProject
 
+![Cozy tea](images/tea-cozy.png)
+
 ## Installation
 
-## Usage
+N/A
+
+## Usage  
+
+You can use this website to find the Best tea in Town.
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Contributing
+
+Helder Balbino
 
 ## Tests
 
+N/A
+
 ## Questions
+
+N/A
